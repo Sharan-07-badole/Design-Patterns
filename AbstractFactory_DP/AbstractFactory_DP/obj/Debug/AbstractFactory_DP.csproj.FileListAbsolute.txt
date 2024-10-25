@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\DESIGN_PATTERNS\AbstractFactory_DP\AbstractFactory_DP\AbstractFactory_DP\bin\Debug\AbstractFactory_DP.exe.config
+C:\Users\hp\source\repos\DESIGN_PATTERNS\AbstractFactory_DP\AbstractFactory_DP\AbstractFactory_DP\bin\Debug\AbstractFactory_DP.exe
+C:\Users\hp\source\repos\DESIGN_PATTERNS\AbstractFactory_DP\AbstractFactory_DP\AbstractFactory_DP\bin\Debug\AbstractFactory_DP.pdb
+C:\Users\hp\source\repos\DESIGN_PATTERNS\AbstractFactory_DP\AbstractFactory_DP\AbstractFactory_DP\obj\Debug\AbstractFactory_DP.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DESIGN_PATTERNS\AbstractFactory_DP\AbstractFactory_DP\AbstractFactory_DP\obj\Debug\AbstractFactory_DP.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DESIGN_PATTERNS\AbstractFactory_DP\AbstractFactory_DP\AbstractFactory_DP\obj\Debug\AbstractFactory_DP.exe
+C:\Users\hp\source\repos\DESIGN_PATTERNS\AbstractFactory_DP\AbstractFactory_DP\AbstractFactory_DP\obj\Debug\AbstractFactory_DP.pdb
